@@ -1,4 +1,6 @@
-####Instructions to replicate provided configuration on a new machine.
+####
+Instructions to replicate provided configuration on a new machine.
+###
 
 *Note - Terraform should be installed to automate the droplet creation process.
 
