@@ -46,4 +46,4 @@ terraform apply
 
 You should see resources created on your Digital Ocean platform.
 
-*Note - If you ever wish to store your code on github don't forget to add a .gitignore file and write the name of the file in it (which is used to source authentication token).
+*Note - If you ever wish to store your code on github don't forget to add a .gitignore file and write the name of the file in it which is used to source authentication token which is .env in this case.
